@@ -32,7 +32,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rubel300-ali&theme=radical&no-bg=true&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=melon-ali&theme=radical&no-bg=true&column=7" alt="trophies" />
 </p>
 
 ---
@@ -60,14 +60,6 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubel300-ali&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubel300-ali&theme=radical&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubel300-ali&layout=compact&theme=radical&border_radius=10" width="60%" />
-</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melon-ali&theme=radical" alt="melon-ali" /></p>
 
