@@ -60,14 +60,11 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubel300-ali&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubel300-ali&theme=radical&border_radius=10" width="48%" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melon-ali&show_icons=true&locale=en&layout=compact&theme=radical" alt="melon-ali" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubel300-ali&layout=compact&theme=radical&border_radius=10" width="60%" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melon-ali&show_icons=true&locale=en&theme=radical" alt="melon-ali" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melon-ali&theme=radical" alt="melon-ali" /></p>
 
 ---
 
